@@ -1,0 +1,13 @@
+name: IBM_AI_ENGINEERING_COURSE
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.13
+- ipykernel
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
+- scikit-learn
+- pip
