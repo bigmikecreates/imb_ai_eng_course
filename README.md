@@ -1,6 +1,6 @@
 # IBM AI ENGINEERING PROFESSIONAL CERTIFICATE
 
-This repository is concerned with <strong>example machine learning projects</strong> made as working through the <a href='https://www.coursera.org/professional-certificates/ai-engineer'><strong>"IBM AI Engineering Professional Certificate"</strong></a>, delivered via Coursera.
+This repository is concerned with <strong>example machine learning projects</strong> made as working through the "<a href='https://www.coursera.org/professional-certificates/ai-engineer'><strong>IBM AI Engineering Professional Certificate</strong></a>", delivered via Coursera.
 
 The following courses are dealt with for this certificate:
 
